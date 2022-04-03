@@ -1,0 +1,69 @@
+english, raw steno
+b,   PW
+c (soft),  K   R
+ch,  K  H
+d, TK
+f, T P
+g, TKPW
+h,     H
+j,S K W R
+k,  K
+l,     HR
+m,   P H
+n, T P H
+p,   P
+qu,  K W
+r,      R
+s,S
+t, T
+v,S     R
+w,    W
+y,  K W R
+z,S        *
+Short a,       A
+Long a,       A  EU
+aw,       A   U
+Short e,          E
+Long e,       AO E
+Short i,          EU
+Long i,       AO EU
+Short o,        O
+Long o,        O E
+oi,        O EU
+oo,       AO
+ou,        O  U
+Short u,           U
+Long u,       AO  U
+b,               B
+ch,            F P
+d,                    D
+dz,                    DZ
+f,            F
+g,                 G
+j,              PBLG
+k,               B G
+l,                L
+m,              P L
+mp,            FRP
+n,              PB
+ng,              PB G
+nj,              PB G
+nk,         *    PB G
+p,              P
+r,             R
+rch,            FRPB
+rf,            FR B
+rv,            FR B
+s,                   S
+sh,             R B
+t,                  T
+v,         *  F
+x,               B G S
+z,                     Z
+shun,                 G S
+kshun,         *     B G S
+Period,            F P L T
+Comma,             R B G S
+Question mark,ST P H
+New paragraph,         P    F
+Correction (asterisk),         *
